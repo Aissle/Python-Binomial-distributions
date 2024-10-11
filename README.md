@@ -1,2 +1,2 @@
 # Python-Binomial-distributions
-A code that runs binomial distributions using Python
+A code that runs Binomial and Gaussian distributions using Python
